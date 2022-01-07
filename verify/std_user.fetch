@@ -1,0 +1,4 @@
+Abaqus FETCH job std_user.inp
+  fetching: std_user.inp
+Abaqus FETCH job std_user.f
+  fetching: std_user.f
